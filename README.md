@@ -38,4 +38,10 @@ The **Ecommerce Sales Dashboard** enables stakeholders to:
 
 ---
 
+## 📊 Live Dashboard
+
+Explore the interactive Tableau dashboard here:
+
+👉 [View Tableau Dashboard] https://public.tableau.com/app/profile/rima.goit/viz/EcommerceSalesDashboard_17498230973550/Dashboard1
+
 
